@@ -1,0 +1,32 @@
+_repo: Our-Little-Czecho-Slovak-Cousin_45616
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meister, Charles E.
+    gutenberg_agent_id: '43593'
+    url: http://www.gutenberg.org/2009/agents/43593
+covers:
+- cover_type: archival
+  image_path: 45616-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winlow, Clara Vostrovsky
+    birthdate: 1876
+    gutenberg_agent_id: '42201'
+    url: http://www.gutenberg.org/2009/agents/42201
+description: ''
+gutenberg_issued: '2014-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45616'
+  lccn: '20006448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Children -- Czechoslovakia -- Juvenile literature'
+- !lcc 'PZ'
+title: Our Little Czecho-Slovak Cousin
+url: http://www.gutenberg.org/ebooks/45616
